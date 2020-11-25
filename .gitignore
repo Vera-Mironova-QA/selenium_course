@@ -1,0 +1,3 @@
+# Project exclude paths
+/py_test/
+/venv/
